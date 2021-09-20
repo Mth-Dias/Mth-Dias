@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mth-Dias
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JS and React.js
+- 🌱 I’m currently learning HTML, CSS, JS and PHP
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-dias-158547185/
 
 <!---
